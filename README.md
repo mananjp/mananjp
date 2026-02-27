@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @mananjp<br>👀 I’m interested in AI&ML, cybersec, development..<br>🌱 I’m currently learning Python/GenAI/AgenticAI/<br>💞️ I’m looking to collaborate on different projects using Python/GenAI/AgenticAI/..<br>📫 How to reach me mananjpanchal11@gmail.com...<br>⚡ Fun fact: I am happy
+👋 Hi, I’m @mananjp<br>👀 I’m interested in AI&ML, cybersec, development..<br>🌱 I’m currently learning Python/GenAI/AgenticAI/DataScience<br>💞️ I’m looking to collaborate on different projects using Python/GenAI/AgenticAI/DataScience..<br>📫 How to reach me mananjpanchal11@gmail.com...<br>⚡ Fun fact: I am happy
 
 
 ## 🌐 Socials:
