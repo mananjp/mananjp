@@ -8,10 +8,10 @@
   <a href="mailto:mananjpanchal11@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/mananjp">
+  <a href="https://leetcode.com/u/mananjpanchal11/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://kaggle.com/mananjp">
+  <a href="https://www.kaggle.com/mananpanchal18">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
